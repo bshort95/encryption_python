@@ -46,11 +46,6 @@ the write_encrypt method writes the current encryption to a user determined file
 there are also two functions that deal with user input to use the before mentioned class  
 
 ## program example
-
-the game starts with a menu option
-
-![menu example]()
-
 enter 1 to choose a file to encrypt
 ![instructions example](https://github.com/bshort95/encryption_python/blob/main/encription_python/example1.JPG?raw=true)  
 
