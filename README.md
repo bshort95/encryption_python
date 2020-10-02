@@ -51,21 +51,20 @@ the game starts with a menu option
 
 ![menu example]()
 
-enter 1 to choose a file.  
-to code a file
-![instructions example]()  
+enter 1 to choose a file to encrypt
+![instructions example](https://github.com/bshort95/encryption_python/blob/main/encription_python/example1.JPG?raw=true)  
 
 enter 2 to display the current encryption
-![display]()
+![display](https://github.com/bshort95/encryption_python/blob/main/encription_python/example5.JPG?raw=true)
 
 enter 3 to write the current encryption into a file
-![write]()
+![write](https://github.com/bshort95/encryption_python/blob/main/encription_python/example2.JPG?raw=true)
 
 enter 4 to decode a file
-![decode]()
+![decode](https://github.com/bshort95/encryption_python/blob/main/encription_python/example3.JPG?raw=true)
 
 enter 5 to exit
-![exit]()  
+![exit](https://github.com/bshort95/encryption_python/blob/main/encription_python/example4.JPG?raw=true)  
 
 ## useful websites
 [Git](https://git-scm.com/)  
